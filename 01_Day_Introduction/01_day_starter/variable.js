@@ -1,6 +1,6 @@
 // Declaring different variables of different data types
 
-let firstName = 'Asabeneh'    // first name of a person
+/*let firstName = 'Asabeneh'    // first name of a person
 let lastName = 'Yetayeh'      // last name of a person
 let country = 'Finland'       // country
 let city = 'Helsinki'         // capital city
@@ -17,4 +17,9 @@ const PI = 3.14              // geometrical constant
 
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
-  live = 'Finland'
+  live = 'Finland' */
+
+  let firstName = 'Joy' //string
+let isMarried = true //boolean
+let yourAge = null //null
+let Gender //undefined
